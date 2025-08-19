@@ -78,3 +78,35 @@ Example: main(), main(int), main(String) are valid but not entry points.
 //number of string conversion
 eg. num = 123
 print one two three
+
+
+permutation of a string
+subset sum problem 
+eg. [10,15,20]
+sum = 25
+output = 1;
+Tower of Hanoi
+second largest
+third largest
+max consecutive Bit
+rotate array
+best time to buy and sell stock
+
+
+
+Arrays Algorithm's
+
+Pointer Approach --> 2 pointer ,3 pointer, Sliding Window, Binary Search
+Precomputation Approach -->
+Hashing
+
+
+3Sum
+3Sum closest
+4Sum
+missing number
+contains duplicate
+Is Subsequence
+Single Number
+
+Sliding Window

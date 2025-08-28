@@ -109,4 +109,4 @@ contains duplicate
 Is Subsequence
 Single Number
 
-Sliding Window
+Sliding Window --static , Dynamic
